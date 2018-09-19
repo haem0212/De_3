@@ -3,6 +3,129 @@
 	margin: 0;
 }
 .container{
+	margin: 0 auto;
 	width: 1020px;
 	height: auto;
 }
+/* css thanh */
+/* css linh */
+/* css phe */
+/* css haem */
+.container .Content{
+	width: 100%;
+	height: 200px;
+	background: #032d70;
+}
+.container .Content .Aenean{
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-right: 5%;
+	/* background: red; */
+}
+.Content .Aenean h3{
+	padding-top: 10px;
+	color: white;
+	font-size: 25px;
+}
+.Content .Aenean h4{
+	color: white;
+	font-size: 20px;
+	padding-bottom: 30px;
+}
+.Content .Aenean p{
+	color: #5b97f7;
+}
+.container .Content .Duis{
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-right: 5%;
+	/* background: red; */
+}
+.Content .Duis h3{
+	padding-top: 10px;
+	color: white;
+	font-size: 25px;
+}
+.Content .Duis h4{
+	color: white;
+	font-size: 20px;
+	padding-bottom: 30px;
+}
+.Content .Duis p{
+	color: #5b97f7;
+}
+.Content .Duis ul li {
+	float: left;
+	display: block;
+	width: 60px;
+	height: 60px;
+}
+.Content .Duis ul li img{
+	width: 60px;
+	height: 60px;
+}
+.Content .Newsletter{
+	float: left;
+	width: 30%;
+	height: 100%;
+}
+.Content .Newsletter h3{
+	padding-top: 10px;
+	color: white;
+	font-size: 25px;
+}
+.Content .Newsletter h4{
+	color: white;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+.Content .Newsletter .box1{
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 98%;
+	height: 35px;
+	border-radius: 5px;
+	background: white;
+}
+.Content .Newsletter .box2{
+	float: left;
+	margin-top: 12px;
+	margin-left: 3px;
+	margin-right: 2%;
+	width: 60%;
+	height: 35px;
+	border-radius: 5px;
+	background: white;
+}
+.Content .Newsletter a{
+	float: left;
+	margin-top: 12px;
+	display: block;
+	width: 36%;
+	height: 35px;
+	text-align: center;
+	border-radius: 5px;
+	line-height: 35px;
+	background: #e5d527;
+	text-decoration: none;
+	color: black;
+}
+.Content .Newsletter a:hover{
+	background: red;
+}
+.container .footer{
+	width: 100%;
+	height: 60px;
+	background: #2cd4dd;	
+}
+.container .footer p{
+	text-transform: uppercase;
+	line-height: 60px;
+	text-align: center;
+	color: white;
+}
+
+
+
